@@ -1,3 +1,12 @@
+# Edits / Improvements:
+
+- reduced fan whine
+- increased serial port speed (printing via serial stuttered before)
+
+# How to compile:
+- see this: https://github.com/ANYCUBIC-3D/Vyper/wiki
+- download the "driver" from here: https://github.com/ANYCUBIC-3D/framework-arduinoststm32_vyper
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
