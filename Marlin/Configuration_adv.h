@@ -1156,7 +1156,7 @@
   // On the Info Screen, display XY with one decimal place when possible
   //#define LCD_DECIMAL_SMALL_XY
 
-  // Add an 'M73' G-code to set the current percentage
+  // Add an 'M73' G-code to set the current percentage change this?
   //#define LCD_SET_PROGRESS_MANUALLY
 
   // Show the E position (filament used) during printing
