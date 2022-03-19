@@ -3,9 +3,13 @@
 - reduced fan whine
 - increased serial port speed (printing via serial stuttered before)
 
-# How to compile:
+# How to compile (only needed if you want to change more settings):
 - see this: https://github.com/ANYCUBIC-3D/Vyper/wiki
 - download the "driver" from here: https://github.com/ANYCUBIC-3D/framework-arduinoststm32_vyper
+
+# How to flash
+- see this: https://github.com/ANYCUBIC-3D/Vyper/wiki#how-to-flash-to-the-mainboard
+- Here is my edited firmware: https://github.com/wilhelmzeuschner/Vyper/blob/vyper/compiled/main_board_20220319.bin
 
 # Marlin 3D Printer Firmware
 
