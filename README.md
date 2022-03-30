@@ -9,7 +9,7 @@
 
 # How to flash
 - see this: https://github.com/ANYCUBIC-3D/Vyper/wiki#how-to-flash-to-the-mainboard
-- Here is my edited firmware: https://github.com/wilhelmzeuschner/Vyper/blob/vyper/compiled/main_board_20220319.bin
+- Here is my edited firmware: https://github.com/wilhelmzeuschner/Vyper/blob/vyper/compiled/
 
 # Marlin 3D Printer Firmware
 
