@@ -121,7 +121,7 @@
  *
  * :[2400, 9600, 19200, 38400, 57600, 115200, 250000, 500000, 1000000]
  */
-#define BAUDRATE 1000000
+#define BAUDRATE 500000
 
 // Enable the Bluetooth serial interface on AT90USB devices
 //#define BLUETOOTH
@@ -736,7 +736,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 100, 400, 405 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 100, 400, 389.56677 }	//405 -> 96.42857 -> 88 -> 389.56677
 
 /**
  * Default Max Feed Rate (mm/s)
